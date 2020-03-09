@@ -1,0 +1,7 @@
+G:\Sklad\MyList\MyList\MyList\bin\Debug\MyList.exe.config
+G:\Sklad\MyList\MyList\MyList\bin\Debug\MyList.exe
+G:\Sklad\MyList\MyList\MyList\bin\Debug\MyList.pdb
+G:\Sklad\MyList\MyList\MyList\obj\Debug\MyList.csprojAssemblyReference.cache
+G:\Sklad\MyList\MyList\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+G:\Sklad\MyList\MyList\MyList\obj\Debug\MyList.exe
+G:\Sklad\MyList\MyList\MyList\obj\Debug\MyList.pdb

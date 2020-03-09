@@ -1,0 +1,7 @@
+G:\Progs\Targem_Test\Calc\Calc\bin\Debug\Calc.exe.config
+G:\Progs\Targem_Test\Calc\Calc\bin\Debug\Calc.exe
+G:\Progs\Targem_Test\Calc\Calc\bin\Debug\Calc.pdb
+G:\Progs\Targem_Test\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+G:\Progs\Targem_Test\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+G:\Progs\Targem_Test\Calc\Calc\obj\Debug\Calc.exe
+G:\Progs\Targem_Test\Calc\Calc\obj\Debug\Calc.pdb
